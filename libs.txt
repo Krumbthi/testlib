@@ -1,0 +1,2 @@
+./testlib/libwidget1.so
+./testlib/libwidget2.so
